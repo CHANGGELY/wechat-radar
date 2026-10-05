@@ -36,5 +36,14 @@
     "typescript": "^5"
   },
   "description": "Local-first WeChat group intelligence dashboard",
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "overrides": {
+    "next": "^16.3.8",
+    "postcss": "^8.5.29",
+    "sharp": "^0.35.5",
+    "browserslist": "^4.29.3",
+    "nanoid": "^6.0.1",
+    "@babel/core": "^8.0.6",
+    "baseline-browser-mapping": "^2.11.27"
+  }
 }
